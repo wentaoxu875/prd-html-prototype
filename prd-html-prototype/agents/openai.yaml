@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD HTML Prototype"
+  short_description: "Generate PRD HTML with embedded prototype iframe."
+  default_prompt: "把这份需求整理成 HTML PRD，并内嵌原型 iframe。"
